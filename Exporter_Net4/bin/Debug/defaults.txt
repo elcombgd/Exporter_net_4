@@ -1,0 +1,7 @@
+# Kofiguracioni fajl za podesavanje default parametara
+
+server=192.168.1.14 	# IP adresa baze na serveru
+port=8050				# Port baze na serveru
+database=saus2_clean	# Naziv baze
+username=saus_api		# Username korisnika na bazi
+password=saus_api		# Password korisnika na bazi
